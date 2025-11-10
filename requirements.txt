@@ -1,0 +1,4 @@
+# Requirements for Text Editor Demo
+tkinter
+pandas
+sqlite3
